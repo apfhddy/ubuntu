@@ -1,2 +1,2 @@
 안녕하세요.
-
+우분투 git을 통한 commit push 성공
